@@ -1,3 +1,33 @@
-S3で説明した内容をプログラムとして作成してください。作成が終わったらこのファイルに日付を記載してください。
-完了日:6月20日
+#
+def  twice(number)
+  number*2
+end
+
+def hundled
+  100
+end
+
+def メソッド名
+  処理
+end
+
+
+
+def hello(something)
+  puts"Say hello to" + something
+end
+
+hello("World")
+
+def teice_plus_one(100)
+  twice = number*2
+  twice +1
+end
+
+var = twice_plus_one(100)
+
+puts var
+
+
+完了日7月2日
 
